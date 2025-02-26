@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Undercover Physician turned Data Scientist
 ------------------------------------------
 
-I'm passionate about exploring multimodal clinical data—images, free text, waveform, omics, and tabular—in cardiology and radiology. My interests span pancreatic cancer and heart disease projects
+I'm passionate about exploring multimodal clinical data—image, free text, waveform, omics, and tabular—specifically in cardiology and radiology. My interests span pancreatic cancer and heart disease projects
 
 * 🌍  I'm based in Baltimore
 * ✉️  You can contact me at [msyaile1@jhu.edu](mailto:msyaile1@jhu.edu)
