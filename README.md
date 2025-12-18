@@ -8,8 +8,6 @@ I'm passionate about exploring multimodal clinical data—image, free text, wave
 
 * 🌍  I'm based in Baltimore
 * ✉️  You can contact me at [msyaile1@jhu.edu](mailto:msyaile1@jhu.edu)
-* 🧠  I'm learning cloud computing
-* 🤝  I'm open to collaborating on AI/ML projects in healthcare 
 * ⚡  Computer games brought me here
 
 ### Skills
