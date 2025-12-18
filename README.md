@@ -6,9 +6,9 @@ Undercover Physician turned Data Scientist
 
 I'm passionate about exploring multimodal clinical data—image, free text, waveform, omics, and tabular—specifically in cardiology and radiology. My topic interests span from heart disease to cancer research.
 
-🌍  I'm based in Baltimore
-✉️  You can contact me at [msyaile1@jhu.edu](mailto:msyaile1@jhu.edu)
-⚡  Computer games brought me here
+* 🌍  I'm based in Baltimore
+* ✉️  You can contact me at [msyaile1@jhu.edu](mailto:msyaile1@jhu.edu)
+* ⚡  Computer games brought me here
 
 ### Skills
 
